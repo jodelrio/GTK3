@@ -1,0 +1,4 @@
+# requirements.txt
+
+pycairo==1.25.0
+PyGObject==3.46.0
